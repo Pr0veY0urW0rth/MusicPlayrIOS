@@ -1,0 +1,54 @@
+
+//MARK: - Authorization
+//title
+"Auth.title" = "Artemis Player";
+"Auth.spotifyTitle" = "Вход в Spotify";
+//labels
+"Auth.helloWord" = "Добро пожаловать в Artemis !";
+"Auth.accountExists" = "Уже есть аккаунт ?";
+"Auth.accountNotExists" = "Ещё не зарегистрированы ?";
+"Auth.exit" = "Чтобы выйти - нажмите кнопку";
+"Auth.spotify" = "На данный Artemis может использовать лишь Spotify в качестве стороннего музыкального сервиса. Пожалуйста, войдите в свой аккаунт Spotify нажав кнопку ниже.";
+//textfields
+"Auth.login" = "Имя пользователя";
+"Auth.email" = "Электронная почта";
+"Auth.password" = "Пароль";
+"Auth.repeatPassword" = "Повторите пароль";
+//buttons
+"Auth.signUp" = "Создать аккаунт";
+"Auth.signIn" = "Войти";
+"Auth.signOut" = "Выйти";
+//alert
+"Alert.regComplete" = "Вы успешно зарегистрировались";
+"Alert.invalidUsername" = "Имя пользователя должно содержать хотя бы одну цифру,букву и быть не менее 8 символов !";
+"Alert.invalidEmail" = "Неверный адрес электронной почты!";
+"Alert.invalidFirstPas" = "Пароль должен состоять из 8 символов, которые включают прописные и строчные буквы, а также минимум 1 цифру!";
+"Alert.invalidSecondPas" = "Пароли не совпадают!";
+"Alert.invalidUserPas" = "Неправильный логин или пароль!";
+"Alert.Ok" = "O.K.";
+//alertTitle
+"AlertTitle.regComplete" = "Регистрация успешна";
+"AlertTitle.loginFailed" = "Не удалось войти!";
+"AlertTitle.invalidUsername" = "Неверное имя пользователя !";
+"AlertTitle.invalidEmail" = "Неверный адрес электронной почты!";
+"AlertTitle.invalidFirstPas" = "Неверный пароль!";
+"AlertTitle.invalidSecondPas" = "Пароли не совпадают!";
+//MARK: - Player
+//NavBar
+"Nav.home" = "Главная";
+"Nav.search" = "Поиск";
+"Nav.library" = "Ваша музыка";
+"Nav.profile" = "Ваш профиль";
+//Sections
+"Sec.artist" = "Исполнители";
+"Sec.albums" = "Альбомы";
+"Sec.playlists" = "Плейлисты";
+"Sec.tracks" = "Треки";
+//Greeting
+"Good.morning" = "Доброе утро";
+"Good.afternoon" = "Добрый день";
+"Good.evening" = "Добрый вечер";
+//Search controller
+"Search.placeholder" = "Что вы хотите найти ?";
+//Settings
+"Settings.title" = "Настройки";

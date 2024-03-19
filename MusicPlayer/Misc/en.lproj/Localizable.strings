@@ -1,0 +1,54 @@
+
+//MARK: - Authorization
+//title
+"Auth.title" = "Artemis Player";
+"Auth.spotifyTitle" = "Spotify Login";
+//labels
+"Auth.helloWord" = "Welcome to Artemis player !";
+"Auth.accountExists" = "Already have an account ?";
+"Auth.accountNotExists" = "Don't have an account yet ?";
+"Auth.exit" = "If you want to exit - tap sign out";
+"Auth.spotify" = "Right now Artemis can only use Spotify as external music services. Please login into your Spotify account by tapping button below.";
+//textfields
+"Auth.login" = "Username";
+"Auth.email" = "E-mail";
+"Auth.password" = "Password";
+"Auth.repeatPassword" = "Repeat password";
+//buttons
+"Auth.signUp" = "Sign Up";
+"Auth.signIn" = "Sign In";
+"Auth.signOut" = "Sign Out";
+//alerts
+"Alert.regComplete" = "You signed Up !";
+"Alert.invalidUserPas" = "Invalid username or password";
+"Alert.invalidUsername" = "Username must contains 8 symbols, which includes letters with at least 1 digit!";
+"Alert.invalidEmail" = "Invalid E-mail!";
+"Alert.invalidFirstPas" = "Password must contains 8 symbols, which includes lowercase and uppercase letters, and at least 1 digit!";
+"Alert.invalidSecondPas" = "Passwords doesn't match!";
+"Alert.Ok" = "O.K.";
+//alertTitle
+"AlertTitle.regComplete" = "Registration succesfull!";
+"AlertTitle.loginFailed" = "Invalid E-mail or password!";
+"AlertTitle.invalidUsername" = "Invalid username!";
+"AlertTitle.invalidEmail" = "Invalid E-mail!";
+"AlertTitle.invalidFirstPas" = "Invalid password!";
+"AlertTitle.invalidSecondPas" = "Passwords don't match!";
+//MARK: - Player
+//NavBar
+"Nav.home" = "Home";
+"Nav.search" = "Search";
+"Nav.library" = "Your Library";
+"Nav.profile" = "Your Profile";
+//Sections
+"Sec.artist" = "Artists";
+"Sec.albums" = "Albums";
+"Sec.playlists" = "Playlists";
+"Sec.tracks" = "Tracks";
+//Greeting
+"Good.morning" = "Good morning";
+"Good.afternoon" = "Good afternoon";
+"Good.evening" = "Good evening";
+//Search controller
+"Search.placeholder" = "What would you like to find?";
+//Settings
+"Settings.title" = "Settings";

@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:MusicPlayerIOS}\\SwiftLint",
+            "name": "Debug swiftlint (SwiftLint)",
+            "program": "${workspaceFolder:MusicPlayerIOS}\\SwiftLint\\.build\\debug\\swiftlint.exe",
+            "preLaunchTask": "swift: Build Debug swiftlint (SwiftLint)"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "args": [],
+            "cwd": "${workspaceFolder:MusicPlayerIOS}\\SwiftLint",
+            "name": "Release swiftlint (SwiftLint)",
+            "program": "${workspaceFolder:MusicPlayerIOS}\\SwiftLint\\.build\\release\\swiftlint.exe",
+            "preLaunchTask": "swift: Build Release swiftlint (SwiftLint)"
+        }
+    ]
+}
